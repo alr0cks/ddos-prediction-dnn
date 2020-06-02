@@ -5,12 +5,12 @@ Might reuse this NeuralNet for deployment over live production server for realti
 
 ### About Dataset
 
-The dataset used is ([https://www.unb.ca/cic/datasets/ids.html] Intrusion Detection Evolution Dataset (ISCX-IDS-2012)) for testing and training.
+The dataset used is [Intrusion Detection Evolution Dataset (ISCX-IDS-2012)](https://www.unb.ca/cic/datasets/ids.html) for testing and training.
 Dataset is cleaned and converted from .pcap to .csv.
 
 The full research paper outlining the details of the dataset and its underlying principles:
 
-Ali Shiravi, Hadi Shiravi, Mahbod Tavallaee, Ali A. Ghorbani, ([http://www.sciencedirect.com/science/article/pii/S0167404811001672] Toward developing a systematic approach to generate benchmark datasets for intrusion detection), Computers & Security, Volume 31, Issue 3, May 2012, Pages 357-374, ISSN 0167-4048, 10.1016/j.cose.2011.12.012.
+Ali Shiravi, Hadi Shiravi, Mahbod Tavallaee, Ali A. Ghorbani, [Toward developing a systematic approach to generate benchmark datasets for intrusion detection](http://www.sciencedirect.com/science/article/pii/S0167404811001672), Computers & Security, Volume 31, Issue 3, May 2012, Pages 357-374, ISSN 0167-4048, 10.1016/j.cose.2011.12.012.
 
 ### Libraies Used
 ```
